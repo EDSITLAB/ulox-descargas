@@ -1,0 +1,1 @@
+Descargas del escritorio de ULOX. Solo binarios firmados y su manifiesto; los publica unicamente la maquina de firma. Como comprobarlos: guia de instalacion de ULOX.
